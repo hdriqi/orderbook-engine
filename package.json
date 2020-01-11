@@ -1,0 +1,53 @@
+{
+  "_from": "orderbook-engine",
+  "_id": "orderbook-engine@1.1.2",
+  "_inBundle": false,
+  "_integrity": "sha1-/6Iq5Z6BpQ2pEWDN2rwu0QS1aNg=",
+  "_location": "/orderbook-engine",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "orderbook-engine",
+    "name": "orderbook-engine",
+    "escapedName": "orderbook-engine",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/orderbook-engine/-/orderbook-engine-1.1.2.tgz",
+  "_shasum": "ffa22ae59e81a50da91160cddabc2ed104b568d8",
+  "_spec": "orderbook-engine",
+  "_where": "/home/riqi/projects/orderbook",
+  "author": {
+    "name": "Jingtum"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "collections": "^5.0.6",
+    "lodash": "^4.17.4",
+    "sort-object": "^3.0.2"
+  },
+  "deprecated": false,
+  "description": "order book match engine",
+  "keywords": [
+    "orderbook",
+    "engine",
+    "match"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "orderbook-engine",
+  "repository": {
+    "type": "git",
+    "url": "http://git.jingtum.com/landoyjx/orderbook-engine.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.2"
+}
